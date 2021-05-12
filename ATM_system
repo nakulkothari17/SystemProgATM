@@ -1,0 +1,19 @@
+ATM system
+
+Card Number
+	pin
+	S/C(savings /current)
+
+	IF
+		balance
+			print balance
+			print end message
+	ELSE
+		withdraw
+			Enter Amount
+			Check in balance
+			Give cash
+			Deduct from balance
+			print end message
+
+TERMINATE
